@@ -6,6 +6,6 @@
 
 현재는 삼성폰과 애플폰만 지원합니다~
 
-![image](https://user-images.githubusercontent.com/88129735/132936005-45df616b-1c85-474d-9a1f-cb294df5dc5d.jpeg)
+![image](https://user-images.githubusercontent.com/88129735/132936409-1e9ab025-aacf-4336-8986-81bb6282d2f7.png)
 ![image](https://user-images.githubusercontent.com/88129735/132936190-af960ed3-11ab-40b5-8164-732b7d3d16a4.jpg)
 
