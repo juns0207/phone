@@ -4,4 +4,4 @@
 
 저희는 자신의 연령대별, 자신이 원하는 가격으로 스마트폰을 추천해드립니다.
 
-![image](https://user-images.githubusercontent.com/88129735/132934071-86a87975-9d55-4d11-8138-5b3be9f36254.png)
+![image](https://user-images.githubusercontent.com/88129735/132934071-86a87975-9d55-4d11-8138-5b3be9f36254.png )
