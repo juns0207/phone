@@ -24,5 +24,7 @@
 
 영상: [스마트폰 중독 예방 영상](https://www.youtube.com/watch?v=EfY3_Ajkzy0)
 
+제작자: 박준서, 이정진, 오민우, 정휘찬
 
 건의사항은 bagjunseo51@gmail.com로 보내주시면 감사하겠습니다.
+
