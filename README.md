@@ -15,7 +15,7 @@
 
 사이트: [간단한 스마트폰 중독 테스트](https://kr.vonvon.me/quiz/406)
 
-영상: [](https://www.youtube.com/watch?v=g6SC9CrKVb8&ab_channel=%EB%B4%84%EB%82%98%EB%AC%B4%EB%B0%A9%EC%86%A1%EA%B5%AD)
+영상: [유튜브](https://www.youtube.com/watch?v=g6SC9CrKVb8&ab_channel=%EB%B4%84%EB%82%98%EB%AC%B4%EB%B0%A9%EC%86%A1%EA%B5%AD)
 
 
 스마트폰 중독 예방에 도움이 필요한 분들은 아래 사이트를 추천해 드립니다.
