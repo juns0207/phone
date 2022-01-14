@@ -24,7 +24,7 @@
 
 영상: [스마트폰 중독 예방 영상](https://www.youtube.com/watch?v=EfY3_Ajkzy0)
   
-
+<hr/>
 
 
 제작자: 박준서, 이정진, 오민우, 정휘찬
