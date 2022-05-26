@@ -21,7 +21,7 @@
 
 [AD반도체 정보 공개 사이트](https://www.saramin.co.kr/zf_user/company-info/view?csn=d3JyUGxnempMRkN0N0VDa0dkUUhKdz09)
 
-## AD반도체 기본정보
+## Details
 
 대표자: Sangchul Lee
 
