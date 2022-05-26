@@ -13,6 +13,8 @@
 ![image](https://user-images.githubusercontent.com/88129735/170467948-726a6450-6ef5-492a-8fe9-21266205005c.png)
 ![image](https://user-images.githubusercontent.com/88129735/170468354-49111c59-ee83-42cf-be3a-9c36f7b640ec.png)
 
+**신제품**
+![image](https://user-images.githubusercontent.com/88129735/170468779-98473df6-5267-4a0b-90fe-a1c47e837db6.png)
 
 ## AD반도체 수출 정보
 ![image](https://user-images.githubusercontent.com/88129735/170462945-e67eacf1-701b-4ff8-a40a-bffaca97737b.png)
