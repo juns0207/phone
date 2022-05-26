@@ -56,4 +56,4 @@
 
 제작자: Juns, Bab Kim
 
-건의사항은 bagjunseo51@gmail.com이나 @gmail.com로 보내주시면 감사하겠습니다.
+건의사항은 bagjunseo51@gmail.com이나 babsu-babo18@gmail.com로 보내주시면 감사하겠습니다.
