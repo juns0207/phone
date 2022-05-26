@@ -6,6 +6,9 @@
 
 **저희는 AD반도체의 제품, 기술, 전망 등 다양한 정보들을 알려드립니다!**
 
+![image](https://user-images.githubusercontent.com/88129735/170467821-ccfc0864-e3b5-4f79-9528-592b0fe5b858.png)
+
+
 ## AD반도체 수출 정보
 ![image](https://user-images.githubusercontent.com/88129735/170462945-e67eacf1-701b-4ff8-a40a-bffaca97737b.png)
 
