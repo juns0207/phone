@@ -1,6 +1,6 @@
 ## 안녕하세요 AD반도체입니다.
 
-##![image](https://user-images.githubusercontent.com/88129735/170445255-7ef227aa-b0de-448e-b879-a07dd6931fc2.png)
+![image](https://user-images.githubusercontent.com/88129735/170445255-7ef227aa-b0de-448e-b879-a07dd6931fc2.png)
 
 AD반도체 기업에 대한 모든 것을 알려드리는 흥미진진 챗봇입니다.
 
