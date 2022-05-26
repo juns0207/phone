@@ -22,6 +22,14 @@
 
 ![image](https://user-images.githubusercontent.com/88129735/170463647-c08bec1a-b6c6-4bd4-b0cf-2f7ade120b26.png)
 
+## AD반도체 관련 사이트
+
+[AD반도체 공식 사이트](http://www.adsemicon.com/eng/main/main.php)
+
+[AD반도체 공식 홍보 영상](http://www.adsemicon.com/eng/movie/movie.mp4)
+
+[AD반도체 정보 공개 사이트](https://www.saramin.co.kr/zf_user/company-info/view?csn=d3JyUGxnempMRkN0N0VDa0dkUUhKdz09)
+
 ## AD반도체 기본정보
 
 대표자: Sangchul Lee
