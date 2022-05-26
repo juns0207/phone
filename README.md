@@ -17,12 +17,13 @@
 
 ![image](https://user-images.githubusercontent.com/88129735/170468779-98473df6-5267-4a0b-90fe-a1c47e837db6.png)
 
-## AD반도체 수출 정보
-![image](https://user-images.githubusercontent.com/88129735/170462945-e67eacf1-701b-4ff8-a40a-bffaca97737b.png)
-
 ## 유통기업
 
 ![image](https://user-images.githubusercontent.com/88129735/170463647-c08bec1a-b6c6-4bd4-b0cf-2f7ade120b26.png)
+
+
+## AD반도체 수출 정보
+![image](https://user-images.githubusercontent.com/88129735/170462945-e67eacf1-701b-4ff8-a40a-bffaca97737b.png)
 
 ## AD반도체 관련 사이트
 
