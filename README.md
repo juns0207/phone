@@ -16,7 +16,7 @@ AD반도체 기업에 대한 모든 것을 알려드리는 흥미진진 챗봇�
 <hr/>
 
 
-제작자: Juns, Bam
+제작자: Juns, Bam Kim
 
 건의사항은 bagjunseo51@gmail.com로 보내주시면 감사하겠습니다.
 
