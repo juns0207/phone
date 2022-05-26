@@ -28,7 +28,7 @@ AD반도체 기업에 대한 모든 것을 알려드리는 흥미진진 챗봇�
 
 [AD반도체 공식 사이트](http://www.adsemicon.com/eng/main/main.php)
 
-[AD반도체 주가 정보 사이트]()
+[AD반도체 공식 홍보 영상](http://www.adsemicon.com/eng/movie/movie.mp4)
 
 
 <hr/>
